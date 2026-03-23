@@ -36,6 +36,7 @@ Un desarrollador apasionado por crear cosas increíbles con código y mantenerme
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original-wordmark.svg" height="145" alt="androidstudio logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" height="145" alt="intellij logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="145" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="145" alt="GitHub"/>
 </div>
 
 <br />
