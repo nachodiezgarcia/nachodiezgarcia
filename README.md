@@ -34,7 +34,17 @@ Un desarrollador apasionado por crear cosas increíbles con código y mantenerme
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/phpstorm/phpstorm-original.svg" height="145" alt="phpstorm logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" height="145" alt="VS-original 2022 logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original-wordmark.svg" height="145" alt="androidstudio logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" height="145" alt="intellij logo" />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" height="145" alt="intellij logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="145" alt="Git" />
+</div>
+
+<br />
+<br />
+
+<div align="left">
+  <a href="https://tanstack.com/" target="_blank"><img src="https://img.shields.io/badge/TanStack-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" height="35" alt="TanStack" /></a>
+  <a href="https://www.pencil.dev/" target="_blank"><img src="https://img.shields.io/badge/Pencil_Project-5D5D5D?style=for-the-badge&logo=pencil&logoColor=white" height="35" alt="Pencil" /></a>
+  <a href="https://contentisland.net/es/" target="_blank"><img src="https://img.shields.io/badge/CONTENT_ISLAND-HEADLESS_CMS-orange?style=for-the-badge&logo=island&logoColor=white" height="35" alt="Content Island" /></a>
 </div>
 
 <!--
