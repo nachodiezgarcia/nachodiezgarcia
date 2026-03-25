@@ -26,7 +26,10 @@ Un desarrollador apasionado por crear cosas increíbles con código. Mi objetivo
 > **⚡ Fun fact:** Odio los errores, pero adoro la sensación de tonto momentáneo que tengo al arreglarlos y pienso: *'¡¡Soy tonto!!, ¿por qué no lo he visto antes?'*... y de repente me encanta programar y a tope. ¡A picar! :)
 
 <br/>
-<br />
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nachodiezgarcia&theme=radical&hide_border=true" alt="Racha de Nacho" />
+</p>
 
 ---
 
