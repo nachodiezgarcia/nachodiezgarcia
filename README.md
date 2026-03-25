@@ -5,7 +5,7 @@ Un desarrollador apasionado por crear cosas increíbles con código y mantenerme
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7E018&width=500&lines=Desarrollador+Web+Full+Stack+en+proceso;Apasionado+por+el+Clean+Code;Deportista+y+amante+del+desafío;Hecho+con+❤️+en+España+2026" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=800&size=24&pause=1000&color=FF00FF&width=600&lines=Desarrollador+Web+Full+Stack+en+proceso;Apasionado+por+el+Clean+Code;Deportista+y+amante+del+desafío;Hecho+con+❤️+en+España+2026" />
 </p>
 
 ---
@@ -56,6 +56,9 @@ Un desarrollador apasionado por crear cosas increíbles con código. Mi objetivo
 ---
 
 <br/>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
 <br/>
 
 ---
